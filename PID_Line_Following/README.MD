@@ -10,7 +10,7 @@ The project progressively builds a PID-based path-following system, including re
 
 ## Simulation
 
-![PID Path Following Simulation](/images/Config_Pid/config_p/Sine/p_3.5.png)
+![PID Path Following Simulation](../images/Config_Pid/config_p/Sine/p_3.5.png)
 
 The simulation allows the robot's motion and controller behavior to be observed while changing the reference path, robot velocity, and PID parameters.
 
